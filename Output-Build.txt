@@ -1,0 +1,6 @@
+﻿1>------ Build started: Project: Regular Expression, Configuration: Debug Win32 ------
+1>  Regular Exprssion 3.cpp
+1>f:\books\dbms lab\project\regular expression\regular expression\regular exprssion 3.cpp(10): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : see declaration of 'scanf'
+1>  Regular Expression.vcxproj -> F:\Books\Dbms lab\Project\Regular Expression\Debug\Regular Expression.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
